@@ -1,0 +1,9 @@
+# Wallet sensitive data
+wallet.json
+*.key
+*.secret
+mnemonic.txt
+
+# Node
+node_modules/
+package-lock.json
